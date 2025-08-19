@@ -1,0 +1,3 @@
+numero 356
+A soma entre os 3 digitos vale: 14
+O produto dos 3 digitos vale: 90
